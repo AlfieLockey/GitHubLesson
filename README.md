@@ -2,7 +2,7 @@
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
+<img src="https://i.redd.it/houses-face-gets-me-always-v0-g64wu2fnex8e1.jpg?width=480&format=pjpg&auto=webp&s=1e5982991646f70b9ad431ea31d90d1fe1f93175" width=50%>
 
 
 ## About the Data
@@ -75,6 +75,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 #Lula:) 
 Alfie Lockey
-
+lula was here :p
 
 
